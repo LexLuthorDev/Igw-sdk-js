@@ -1,6 +1,6 @@
 {
   "name": "@lexluthordev/igw-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cliente IGAMEWIN API em JavaScript (Node 18+)",
   "keywords": [
     "igamewin",
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LexLuthorDev/igw-sdk.git"
+    "url": "git+https://github.com/LexLuthorDev/Igw-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/LexLuthorDev/igw-sdk/issues"
+    "url": "https://github.com/LexLuthorDev/Igw-sdk-js/issues"
   },
-  "homepage": "https://github.com/LexLuthorDev/igw-sdk#readme",
+  "homepage": "https://github.com/LexLuthorDev/Igw-sdk-js#readme",
   "author": "Lex Luthor <posseidon1989@gmail.com> (https://github.com/LexLuthorDev)",
   "devDependencies": {
     "esbuild": "^0.23.1"
