@@ -41,6 +41,6 @@
   "homepage": "https://github.com/LexLuthorDev/Igw-sdk-js#readme",
   "author": "Lex Luthor <posseidon1989@gmail.com> (https://github.com/LexLuthorDev)",
   "devDependencies": {
-    "esbuild": "^0.23.1"
+    "esbuild": "^0.25.9"
   }
 }
